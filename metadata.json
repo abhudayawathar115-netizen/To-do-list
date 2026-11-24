@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow",
+  "description": "A clean, responsive task management and to-do list web application with full CRUD operations, dashboard analytics, filtering, sorting, and Supabase persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
